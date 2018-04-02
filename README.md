@@ -1,4 +1,5 @@
 # lab-1-Green-Blood
-lab-1-Green-Blood created by GitHub Classroom
-ID: U1610092
-Name: Odilkhujaev Jamoliddinkhuja
+- **Student ID**: U1610092
+- **Student Name**: Odilkhujaev Jamoliddinkhuja
+- **Section Number**: 002
+
